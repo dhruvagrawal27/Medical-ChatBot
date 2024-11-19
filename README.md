@@ -1,6 +1,9 @@
  Medical-ChatBot
 An end-to-end medical chatbot leveraging Llama 2, designed to provide accurate, AI-driven healthcare assistance. This project integrates advanced NLP capabilities to answer medical queries, guide users, and offer general health advice. Includes features like user authentication, secure data handling, and dynamic responses for enhanced interaction. 
 
+Demo
+[![Watch the video](https://raw.githubusercontent.com/dhruvagrawal27/Medical-ChatBot/main/Thumbnail.png)](https://raw.githubusercontent.com/dhruvagrawal27/Medical-ChatBot/main/DemoVideo.mp4)
+
 1. Extract Medical Data from PDF:
    - Use Python libraries like `PyPDF` to extract medical text data from PDF files.
    - Preprocess the extracted data by cleaning and formatting it for further use.

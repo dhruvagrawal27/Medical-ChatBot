@@ -1,0 +1,50 @@
+2024-11-20 00:16:05,909 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-11-20 00:16:05,909 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-11-20 00:16:09,752 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2024-11-20 00:16:09,752 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-11-20 00:16:09,752 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-11-20 00:16:09,781 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-11-20 00:16:09,960 - __main__ - INFO - Components initialized successfully
+2024-11-20 00:16:10,918 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.221:8080
+2024-11-20 00:16:10,918 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 00:16:10,918 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 00:16:22,084 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-11-20 00:16:22,084 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-11-20 00:16:26,011 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2024-11-20 00:16:26,015 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-11-20 00:16:26,016 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-11-20 00:16:26,076 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-11-20 00:16:26,467 - __main__ - INFO - Components initialized successfully
+2024-11-20 00:16:26,499 - werkzeug - WARNING -  * Debugger is active!
+2024-11-20 00:16:26,509 - werkzeug - INFO -  * Debugger PIN: 220-520-136
+2024-11-20 00:16:27,016 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2024 00:16:27] "GET / HTTP/1.1" 200 -
+2024-11-20 00:24:06,984 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2024 00:24:06] "GET / HTTP/1.1" 200 -
+2024-11-20 00:24:14,516 - werkzeug - INFO -  * Detected change in 'f:\\medical-chatbot\\app.py', reloading
+2024-11-20 00:24:15,683 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 00:24:26,001 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2024-11-20 00:24:26,001 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-11-20 00:24:29,732 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2024-11-20 00:24:29,732 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-11-20 00:24:29,732 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-11-20 00:24:29,797 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-11-20 00:24:30,209 - __main__ - INFO - Components initialized successfully
+2024-11-20 00:24:30,257 - werkzeug - WARNING -  * Debugger is active!
+2024-11-20 00:24:30,270 - werkzeug - INFO -  * Debugger PIN: 220-520-136
+2024-11-20 00:24:30,683 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2024 00:24:30] "GET / HTTP/1.1" 200 -
+2024-11-20 00:24:38,733 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2024 00:24:38] "GET / HTTP/1.1" 200 -
+2024-11-20 00:24:40,622 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2024 00:24:40] "GET / HTTP/1.1" 200 -
+2024-11-20 00:25:24,419 - werkzeug - INFO -  * Detected change in 'F:\\Medical-ChatBot\\app.py', reloading
+2024-11-20 00:25:25,175 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 00:28:06,610 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 00:29:45,510 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 00:51:51,983 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 01:02:51,811 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 01:16:18,704 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 01:19:09,141 - werkzeug - INFO -  * Restarting with stat
+2024-11-20 01:21:22,068 - werkzeug - INFO -  * Restarting with stat
